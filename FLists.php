@@ -12,7 +12,7 @@
         <div id="Banner">
             <header>
                
-                <h1 id = "izquierda">YRVJ<span> List</span></h1>
+                <h1 id = "izquierda">YRVG<span> List</span></h1>
 
                 <nav id = "derecha">
           
