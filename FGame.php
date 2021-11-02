@@ -13,7 +13,7 @@
         
        <header>
            
-           <h1 id = "izquierda">YRVJ<span> Survey Game</span></h1>
+           <h1 id = "izquierda">YRVG<span> Survey Game</span></h1>
 
            <nav id = "derecha">
                <a href="FHome.php">Home</a>
