@@ -6,7 +6,7 @@
         <title>YRVG | Home</title>
 
         <style>
-            @import "style.css";
+            @import "style/style.css";
         </style>
     </head>
     <body>
@@ -15,10 +15,10 @@
             <h1 id = "izquierda">YRVG<span> Home</span></h1>
 
             <nav id = "derecha">
-                <a href="FHome.php">Home</a>
-                <a href="FGame.php">Create Review</a>
-                <a href="FSearch.php">Modify or Delete Review</a>
-                <a href="FLists.php">List Review</a>
+                <a href="index.php">Home</a>
+                <a href="pages/FGame.php">Create Review</a>
+                <a href="pages/FSearch.php">Modify or Delete Review</a>
+                <a href="pages/FLists.php">List Review</a>
             </nav>
         </header>
 
@@ -37,7 +37,7 @@
 
                 <h4>CyberPunk 2077</h4>
 
-                <img src="img1.jpg" alt="Cyberpunk" width="700" height="400">
+                <img src="img/img1.jpg" alt="Cyberpunk" width="700" height="400">
 
                 <h5>Summary</h5>
 
@@ -51,15 +51,15 @@
 
                 <h5>Review of Companies</h5>
 
-                <img src="img2.png" alt="Cyberpunk" width="750" height="100">
+                <img src="img/img2.png" alt="Cyberpunk" width="750" height="100">
 
                 <h5>Review of Public</h5>
 
-                <img src="img3.png" alt="Cyberpunk" width="425" height="100">
+                <img src="img/img3.png" alt="Cyberpunk" width="425" height="100">
 
                 <h4>Sackboy a big adventure</h4>
 
-                <img src="img4.jpg" alt="sackboy a big adventure" width="700" height="400">
+                <img src="img/img4.jpg" alt="sackboy a big adventure" width="700" height="400">
 
                 <h5>Summary</h5>
 
@@ -72,11 +72,11 @@
 
                 <h5>Review of Companies</h5>
 
-                <img src="img5.png" alt="sackboy a big adventure" width="750" height="100">
+                <img src="img/img5.png" alt="sackboy a big adventure" width="750" height="100">
 
                 <h5>Review of Public</h5>
 
-                <img src="img6.png" alt="sackboy a big adventure" width="425" height="100">
+                <img src="img/img6.png" alt="sackboy a big adventure" width="425" height="100">
             </main>
     
             <hr><footer><p>Hecho Jose E Velazquez Sepulveda</p>&copy;2021 YRVG Inc.</footer>
