@@ -11,7 +11,7 @@ Before you begin, ensure you have Docker installed on your machine. If Docker is
 To build the Docker image for the PHP-Apache web application, navigate to the directory containing the Dockerfile and execute the following command:
 
 ```bash
-    docker build -t yrvg .
+docker build -t yrvg .
 ```
 
 Run the Container
