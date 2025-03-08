@@ -5,7 +5,7 @@
         <title>YRVG | Modify and Delete</title>
 
         <style>
-            @import "style.css";
+            @import "../style/style.css";
         </style>
     </head>
     <body>
@@ -17,10 +17,10 @@
             <h1 id = "izquierda">YRVG<span> Modify And Delete</span></h1>
 
             <nav id = "derecha">
-                <a href="FHome.php">Home</a>
-                <a href="FGame.php">Create Review</a>
-                <a href="FSearch.php">Modify or Delete Review</a>
-                <a href="FLists.php">List Review</a>
+                <a href="../index.php">Home</a>
+                <a href="pages/FGame.php">Create Review</a>
+                <a href="pages/FSearch.php">Modify or Delete Review</a>
+                <a href="pages/FLists.php">List Review</a>
             </nav>
         </header>
 
@@ -225,9 +225,9 @@
                                 <span class="error"> *<?php echo $ErrorRatings;?></span>
                             <br><br>
                             <input type="submit" name="Modify" value="Modify">  
-                            <a href= "FHome.php"><input type="button" value="Home"></a>
+                            <a href= "../index.php"><input type="button" value="Home"></a>
                             <input type="submit" name = "Delete" value="Delete"></a>
-                            <a href= "FSearch.php"><input type="button" value="Back"></a>
+                            <a href= "pages/FSearch.php"><input type="button" value="Back"></a>
                         </form> 
                     </main>
             <hr><footer><p>Hecho Jose E Velazquez Sepulveda</p>&copy;2021 YRVG Inc.</footer>

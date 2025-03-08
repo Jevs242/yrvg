@@ -65,7 +65,7 @@ h1 span{
     padding-top: 25px;
 }
 header {
-    background-image: url(BannerF.jpg);
+    background-image: url(../img/BannerF.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;

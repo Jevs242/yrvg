@@ -5,7 +5,7 @@
         <title>YRVG | List</title>
 
         <style>
-            @import "style.css";
+            @import "../style/style.css";
         </style>
     </head>
     <body>
@@ -15,8 +15,7 @@
                 <h1 id = "izquierda">YRVG<span> List</span></h1>
 
                 <nav id = "derecha">
-          
-                    <a href="FHome.php">Home</a>
+                    <a href="../index.php">Home</a>
                     <a href="FGame.php">Create Review</a>
                     <a href="FSearch.php">Modify or Delete Review</a>
                     <a href="FLists.php">List Review</a>
